@@ -21,4 +21,3 @@ In this first part you will learn:
 * a button to pull up the next student
 * a label to diaplay student address (of the student selected above)
 * a button to display the address.
-3. 
